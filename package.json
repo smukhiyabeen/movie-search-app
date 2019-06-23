@@ -1,7 +1,7 @@
 {
   "name": "movie-search-app",
   "version": "1.0.0",
-  "description": "my search app",
+  "description": "A react movie search app",
   "main": "app.js",
   "dependencies": {
     "ejs": "^2.6.2",
@@ -15,5 +15,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "subarna mukhiyabeen",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/smukhiyabeen/movie-search-app"
 }
