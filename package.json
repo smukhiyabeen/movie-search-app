@@ -1,0 +1,19 @@
+{
+  "name": "movie-search-app",
+  "version": "1.0.0",
+  "description": "my search app",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "subarna mukhiyabeen",
+  "license": "ISC"
+}
